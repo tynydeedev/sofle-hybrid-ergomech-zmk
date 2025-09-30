@@ -150,9 +150,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PG UP
-  - {t: ▽, type: trans}
+  - Gui+[
   - UP
-  - {t: ▽, type: trans}
+  - Gui+]
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
